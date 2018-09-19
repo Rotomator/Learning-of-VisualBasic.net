@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.4 Nesting of conditional statements", "2.4 Nesting of conditional statements\2.4 Nesting of conditional statements.vbproj", "{AC8B556C-5D6F-486D-9EC7-8DA00FFA400A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8B556C-5D6F-486D-9EC7-8DA00FFA400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8B556C-5D6F-486D-9EC7-8DA00FFA400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8B556C-5D6F-486D-9EC7-8DA00FFA400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8B556C-5D6F-486D-9EC7-8DA00FFA400A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3AD6F7-B1EA-46CB-8CD0-8AB443843620}
+	EndGlobalSection
+EndGlobal
